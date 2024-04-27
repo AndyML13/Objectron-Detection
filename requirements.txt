@@ -1,0 +1,4 @@
+torchvision
+mediapipe
+opencv-python
+tensorflow
